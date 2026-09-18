@@ -76,7 +76,7 @@ int main(void)
 {
 
   /* USER CODE BEGIN 1 */
-  setbuf(stdout, NULL);
+   setbuf(stdout, NULL);
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
